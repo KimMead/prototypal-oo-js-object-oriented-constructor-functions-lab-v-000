@@ -6,6 +6,6 @@ function Scooter(year, color, model) {
 mailing at ${this.email}!`);
     };
 }
- 
+
 let lauren = new User('lauren', 'lauren@example.com');
 lauren.sayHello(); 
